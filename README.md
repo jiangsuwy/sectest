@@ -108,3 +108,4 @@ Fields can be exposed in the webui as a widget using a format similar to what is
 - The name of the widget that will be displayed in the web ui
 - Either a primitive such as "INT" or "BOOLEAN", or a list of string options
 - A dictionary of options
+"# sectest" 
